@@ -1,0 +1,9 @@
+PyQt5
+PyQtWebEngine
+google-generativeai
+pymavlink
+numpy
+flask
+flask-cors
+requests
+python-dotenv
